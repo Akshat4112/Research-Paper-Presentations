@@ -1,7 +1,7 @@
 # Research-Paper-Presentations
 
-This repository contains all the research presentations done during masters program in computational linguistics from university of stuttgart
-It consists of following topics: 
+This repository contains all the research presentations done during the master's program in computational linguistics from the University of Stuttgart.
+It consists of the following topics: 
 
 *   Advance Speech Perception
 *   Argument Mining
